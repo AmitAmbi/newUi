@@ -13,7 +13,7 @@ import Image from "next/image";
 import {
   MdOutlineKeyboardArrowLeftSvg,
   MdOutlineKeyboardArrowRightSvg,
-} from "@/Data/svgData/MDIcons";
+} from "@/Data/svgdata/MDIcons";
 
 const Reels = () => {
   const reelswiperRef = useRef(null);
